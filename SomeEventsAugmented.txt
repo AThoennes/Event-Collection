@@ -1,0 +1,6 @@
+19670115,Green Bay Packers,Superbowl I
+19120623,Alan Turing,Birth
+18010304,Thomas Jefferson,Inauguration
+19450508,Great Britain,VE Day
+18260704,Thomas Jefferson,Death
+20151225,Christians,Christmas Day 2015
