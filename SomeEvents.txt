@@ -1,0 +1,7 @@
+19670115,Green Bay Packers,Superbowl I
+19120623,Alan Turing,Birth
+18010304,Thomas Jefferson,Inauguration
+19450508,Great Britain,VE Day
+18260704,Thomas Jefferson,Death
+19971025,Alex Thoennes,Marriage
+19961231,Jess Kemmerling,Graduation
